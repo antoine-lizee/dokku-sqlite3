@@ -1,0 +1,4 @@
+[plugin]
+description = "dokku sqlite3 support"
+version = "0.1"
+[plugin.config]
